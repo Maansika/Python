@@ -1,0 +1,35 @@
+Transactional Dataset Overview
+
+This dataset contains transactional records of customer purchases across different stores.It includes key attributes related to customers,products, transactions,and sales performance.
+* STORE_NBR: Unique identifier for each store.
+* LYLTY_CARD_NBR: Customer loyalty card number (unique to each customer).
+* TXN_ID: Unique transaction ID for each purchase.
+* PROD_NBR: Product identifier.
+* PROD_NAME: Name of the purchased product.
+* PROD_QTY: Quantity of the product purchased in the transaction.
+* TOT_SALES: Total sales amount for the transaction.
+
+Below are some key insights that can be derived using Pandas and Plotly for interactive visualizations:
+
+Top Selling Products
+* Identify the most popular products based on quantity sold.
+* Determine which products contribute the most to revenue.
+
+Revenue Contribution by Product
+* Find the highest revenue-generating products.
+* Compare sales volume vs. revenue contribution.
+
+Store Performance Analysis
+* Identify top-performing stores based on total sales.
+* Determine if sales are concentrated in a few locations.
+
+Customer Spending Behaviour
+* Analyse the average spending per transaction to identify high-value customers.
+
+Conclusion:
+Sales Analysis – Identify top-selling products and revenue-generating items.
+Customer Behaviour Insights – Understand spending habits and purchase frequency.
+Store Performance – Compare sales performance across different store locations.
+Inventory & Demand Forecasting – Analyse product demand and stock availability.
+
+

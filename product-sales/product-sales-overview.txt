@@ -1,0 +1,27 @@
+Product Sales Dataset Overview:
+
+This dataset provides insights into product sales, covering key financial and inventory details. It includes fields such as Product ID, Product Name, and Category, which help classify and track different products.
+Financial metrics such as Cost Price, Selling Price, Revenue, and Profit provide a clear picture of product profitability and pricing strategies. Additionally, Units Sold and Stock Available help in inventory management and demand forecasting.
+
+Potential Insights & Analysis Using Python:
+
+I analysed this dataset using Python with libraries like Pandas, Matplotlib, and Plotly to extract meaningful insights. Here are some key analyses I performed:
+
+Profitability Analysis: Identified the most and least profitable products.
+
+Calculate profit margins: Determined the profitability of each product. 
+
+Revenue & Sales Performance: Find the top-selling products based on revenue and units sold. Identified underperforming products with low sales or high stock availability.
+
+Comparison of two categories: Summing revenue and profit for each category. Extract data for Electronics and Furniture only. Displays the total revenue and profit for these two categories. This approach provides a clear comparison of the financial performance of the two categories.
+
+Stock Analysis: Identified products low on stock (<10 units) and products high on stock (>10 units).
+
+Top Performing Products: Find highest revenue generating products and highest profit generating products
+
+Conclusion:
+By leveraging Python for exploratory data analysis (EDA), I find valuable insights for sales performance, profitability optimization, pricing strategy, and inventory management.
+
+
+
+

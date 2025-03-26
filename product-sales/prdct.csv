@@ -1,0 +1,12 @@
+
+Product_ID	Product_Name	Category	Cost_Price	Selling_Price	Revenue	Profit	Units_Sold	Stock_Available
+101	Wireless Earbuds	Electronics	20	50	5000	3000	100	20
+102	Laptop	Electronics	500	800	16000	6000	20	5
+103	Office Chair	Furniture	70	150	7500	4000	50	10
+104	Coffee Maker	Appliances	40	100	3000	1800	30	15
+105	Gaming Console	Electronics	200	400	8000	4000	20	8
+106	Smartwatch	Electronics	80	200	4000	2400	20	10
+107	Desk Lamp	Furniture	15	40	2000	1250	50	30
+108	Blender	Appliances	25	70	2100	1350	30	20
+109	Sneakers	Apparel	30	90	2700	1800	30	25
+110	Backpack	Apparel	20	60	1800	1200	30	18

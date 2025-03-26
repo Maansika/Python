@@ -1,0 +1,25 @@
+Customer Dataset Overview:
+
+This dataset provides insights into customer segmentation and purchasing behaviour. It includes the following key fields:
+* LYLTY_CARD_NBR: A unique identifier for each customer loyalty card.
+* LIFESTAGE: The stage of life the customer belongs to (e.g., Young Singles, Mid-Life Families, Retirees).
+* PREMIUM_CUSTOMER: Indicates the customer's spending category, such as Budget, Mainstream, or Premium.
+
+I analysed this dataset using Pandas and Matplotlib to extract meaningful insights.Here are some key analyses you can perform:
+
+Customer Distribution by Lifestage: 
+* Understand the distribution of customers across different life stages.
+* Identify the largest and smallest customer segments.
+
+Premium vs. Budget Customers:
+* Analyse the proportion of Premium, Mainstream, and Budget customers.
+* Identify if a particular lifestage group dominates a spending category.
+
+Customer Segmentation Analysis
+* Find the most valuable customer group by combining lifestage and spending category.
+
+Conclusion:
+By analysing this dataset, I gain valuable insights into customer distribution, spending behaviour, and high-value segments.
+These insights can be used for personalized marketing, customer retention strategies, and revenue optimization.
+
+
